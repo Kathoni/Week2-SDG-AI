@@ -93,4 +93,10 @@ Potential use cases:
 ---
 
 ## 📂 Repo Structure
+📦 wesad-stress-ai-sdg3/
+┣ 📜 stress_detector.py # Main script
+┣ 📊 visuals/ # Plots ( confusion matrix)
+┣ 📝 article.md # 1-page writeup
+┣ 📄 README.md # This file
+┗ 📋 requirements.txt
 
