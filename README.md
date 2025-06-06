@@ -14,7 +14,7 @@ By identifying stress early through physiological signals, we enable **preventiv
 
 ## 💾 Dataset
 
-**[WESAD (Wearable Stress and Affect Detection)](https://zenodo.org/record/3430139)**  
+**[WESAD (Wearable Stress and Affect Detection)](https://www.kaggle.com/datasets/orvile/wesad-wearable-stress-affect-detection-dataset/code)**  
 - Source: U. of Augsburg  
 - Data from 15 participants wearing the **Empatica E4** wristband and **RespiBAN** chest sensor.  
 - Collected signals:
