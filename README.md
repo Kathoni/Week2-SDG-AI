@@ -69,7 +69,7 @@ We framed the task as **binary classification**:
 - **Accuracy**: ~XX%  
 - **Key Features**: EDA and Temperature were most predictive of stress.
 - **Visuals**:  
-  ![Confusion Matrix](visuals/confusion_matrix.png)
+  ![Confusion Matrix](confusion-matrix.png)
 
 ---
 
