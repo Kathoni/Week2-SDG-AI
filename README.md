@@ -20,8 +20,7 @@ By identifying stress early through physiological signals, we enable **preventiv
 - Collected signals:
   - EDA (Electrodermal Activity)
   - Temperature
-  - Accelerometer (x, y, z)
-  - Respiration, ECG, EMG
+
 
 - **Labels**:  
   - `0`: Baseline (relaxed)  
