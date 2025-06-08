@@ -92,12 +92,12 @@ Potential use cases:
 ---
 
 ## 📂 Repo Structure
-📦 wesad-stress-ai-sdg3/
-├──📄  README.md           # Intro, screenshots, SDG context
-├──📜  stress_detector.py  # Main model script
-├──📋 requirements.txt    # Libraries
-├──📊 visuals/            # Confusion matrix and plots
-└──📝 article.md          # Your writeup
+
+- 📄 `README.md` — Intro, project overview, screenshots, and SDG context
+- 📜 `stress_detector.py` — Main machine learning model script
+- 📋 `requirements.txt` — Python dependencies for the project
+- 📊 `visuals/` — Folder for plots, confusion matrix, etc.
+- 📝 `article.md` — Article explaining the SDG problem and your AI solution
 
 
 
