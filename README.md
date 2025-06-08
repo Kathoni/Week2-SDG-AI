@@ -94,9 +94,8 @@ Potential use cases:
 ## 📂 Repo Structure
 
 - 📄 `README.md` — Intro, project overview, screenshots, and SDG context
-- 📜 `stress_detector.py` — Main machine learning model script
 - 📋 `requirements.txt` — Python dependencies for the project
-- 📊 `visuals/` — Folder for plots, confusion matrix, etc.
+- 📊 `confusion-matrix.png` — confusion matrix  plot.
 - 📝 `article.md` — Article explaining the SDG problem and your AI solution
 
 
